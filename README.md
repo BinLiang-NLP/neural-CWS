@@ -1,4 +1,4 @@
-# deep-model-japanese-word-segment
+# neural-CWS
 
 In this work, I will use deep learning to deal with CWS
 
