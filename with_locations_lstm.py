@@ -1,10 +1,7 @@
-'''
-加入location特征的LSTM网络
-'''
 #!/bin/env python
 #-*- coding:utf8 -*-
 
-__author__ = 'Akuchi <liangbin05@baidu.com>'
+__author__ = 'BinLiang <bin.liang@stu.hit.edu.cn>'
 __date__ = '2017-06-14'
 
 
