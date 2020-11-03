@@ -1,6 +1,6 @@
 # Introduction
 
-**Shared neural models for Chinese word segment**.
+**Several neural models for Chinese word segment**.
 
 This work was completed when I was a natural language processing engineer in *Baidu*.
   
